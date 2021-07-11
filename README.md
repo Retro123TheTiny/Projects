@@ -1,2 +1,2 @@
-# UNSW-Courses-and-Projects
-All UNSW Courses and Projects I have done
+# Projects Completed
+All the projects that are completed and is compiled into a report
