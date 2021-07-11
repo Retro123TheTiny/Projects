@@ -1,2 +1,2 @@
 # Projects Completed
-All the projects that are completed and is compiled into a report
+Folder contains all the projects and reports that I completed both in my studies and extracurricular activities.
